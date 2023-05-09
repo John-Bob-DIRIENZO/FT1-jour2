@@ -1,0 +1,22 @@
+[
+    {
+        "first_name": "Francis",
+        "last_name": "Huster",
+        "age": 42
+    },
+    {
+        "first_name": "Pierre",
+        "last_name": "Palmate",
+        "age": 51
+    },
+    {
+        "first_name": "Roger",
+        "last_name": "Rabbit",
+        "age": 12
+    },
+    {
+        "first_name": "Maurice",
+        "last_name": "Lejeune",
+        "age": 29
+    }
+]
